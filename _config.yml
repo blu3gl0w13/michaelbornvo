@@ -17,12 +17,12 @@ people:
       url: https://twitter.com/michaelbornvo
     - title: facebook
       url: https://facebook.com/michaelbornvo
+    - title: instagram
+      url: https://instagram.com/michaelbornvo
     - title: linkedin
-      url: https://www.linkedin.com/in/michael-born-890080324
-  address:
-    - line: Michael Born Voice-Overs
-    - line: P.O. Box 205
-    - line: Bennington, NE 68007
+      url: https://www.linkedin.com/in/michael-born-89080324/
+  
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -31,18 +31,18 @@ social:
     url: https://twitter.com/michaelbornvo
   - title: facebook
     url: https://facebook.com/michaelbornvo
+  - title: instagram
+    url: https://instagram.com/michaelbornvo
   - title: linkedin
     url: https://www.linkedin.com/in/michael-born-89080324/
-  - title: backstage
-    url: https://www.backstage.com/u/michael-born
-  - title: voices123
-    url: https://voice123.com/michaelborn
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Michael Born Voice-Overs
   - line: P.O. Box 205
   - line: Bennington, NE 68007
+  - line: (402) 431-2601
+  - line: info[@]michaelbornvo.com
 
 # Build settings
 markdown: kramdown
