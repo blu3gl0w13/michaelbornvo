@@ -10,9 +10,7 @@
                 {% for business in site.address %}
                     <div class="col-lg-6">
                         <h4>Business Information</h4>
-                        {% for line in business %}
-                        <p class="large text-muted">{{ line }}</p>
-                        {% endfor %}
+                        <p class="large text-muted">{{ business }}</p>
                     </div>
                 {% endfor %}
                 <!-- <div class="col-lg-12">
