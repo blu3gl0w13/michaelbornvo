@@ -19,6 +19,10 @@ people:
       url: https://facebook.com/michaelbornvo
     - title: linkedin
       url: https://www.linkedin.com/in/michael-born-890080324
+  address:
+    - line: Michael Born Voice-Overs
+    - line: P.O. Box 205
+    - line: Bennington, NE 68007
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -36,6 +40,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Michael Born Voice-Overs
   - line: P.O. Box 205
   - line: Bennington, NE 68007
 
