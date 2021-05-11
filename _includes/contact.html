@@ -7,12 +7,10 @@
                 </div>
             </div>
             <div class="row">
-                {% for business in site.address %}
                     <div class="col-lg-6">
                         <h4>Business Information</h4>
-                        <p class="large text-muted">{{ business }}</p>
+                        <p class="large text-muted">{% site.address %}</p>
                     </div>
-                {% endfor %}
                 <!-- <div class="col-lg-12">
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
