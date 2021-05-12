@@ -9,7 +9,9 @@
             <div class="row">
                     <div class="col-lg-6">
                         <h4>Business Information</h4>
-                        <p class="large text-muted">{{ site.address }}</p>
+                        {% for info in site.address}
+                        <p class="large text-muted">{{ info.line }}</p>
+                        {% endfor %}
                     </div>
                 <!-- <div class="col-lg-12">
                     <form name="sentMessage" id="contactForm" novalidate>
