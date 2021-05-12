@@ -41,8 +41,6 @@ address:
   - line: Michael Born Voice-Overs
   - line: P.O. Box 205
   - line: Bennington, NE 68007
-  - line: (402) 431-2601
-  - line: info[@]michaelbornvo.com
 
 # Build settings
 markdown: kramdown
