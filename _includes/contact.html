@@ -9,8 +9,8 @@
             <div class="row">
                     <div class="col-lg-6">
                         <h4>Business Information</h4>
-                        {% for info in site.address}
-                        <p class="large text-muted">{{info.line}}</p>
+                        {% for line in site.address}
+                        <p class="large text-muted">{{line}}</p>
                         {% endfor %}
                     </div>
                 <!-- <div class="col-lg-12">
