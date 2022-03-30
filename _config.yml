@@ -19,8 +19,10 @@ people:
       url: https://facebook.com/michaelbornvo
     - title: instagram
       url: https://instagram.com/michaelbornvo
+    - title: soundcloud
+      url: https://soundcloud.com/michaelbornvo
     - title: linkedin
-      url: https://www.linkedin.com/in/michael-born-89080324/
+      url: https://www.linkedin.com/company/michaelbornvo
   
 
 
@@ -33,8 +35,10 @@ social:
     url: https://facebook.com/michaelbornvo
   - title: instagram
     url: https://instagram.com/michaelbornvo
+  - title: soundcloud
+    url: https://soundcloud.com/michaelbornvo
   - title: linkedin
-    url: https://www.linkedin.com/in/michael-born-89080324/
+    url: https://www.linkedin.com/company/michaelbornvo
 
 # Postal address (add as many lines as necessary)
 address:
